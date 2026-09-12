@@ -23,12 +23,15 @@ An end-to-end data analysis project on the Olist E-Commerce dataset using Excel,
 
 ---
 
-## 📂 Project Files
-- [Python / Jupyter Notebook]
-- 📊 [Excel Analysis]
-- 🗄️ [SQL Analysis]
-- 📈 [Power BI Dashboard]
-- 📉 [Tableau Dashboard]
+## 📁 Project Files
+
+- [🐍 Python / Jupyter Notebook](Ecommerce.ipynb)
+- [📊 Excel Analysis](Excel/)
+- [🗄️ SQL Analysis](SQL/)
+- [📈 Power BI Dashboard](PowerBi/)
+- [📉 Tableau Dashboard](Tableau/)
+- [📊 Dashboard Screenshots](Dashboards/)
+- [📂 Datasets](Datasets/)
 
 ---
 
