@@ -14,11 +14,17 @@ An end-to-end data analysis project on the Olist E-Commerce dataset using Excel,
 - MySQL
 - Power BI
 - Tableau
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ---
 
 ## 📂 Project Files
-
+- [Python / Jupyter Notebook]
 - 📊 [Excel Analysis]
 - 🗄️ [SQL Analysis]
 - 📈 [Power BI Dashboard]
